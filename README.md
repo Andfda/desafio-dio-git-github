@@ -15,7 +15,7 @@ git init
 ## git add
 git add .
 ## git clone
-git clone [link]
+git clone (link)
 ## git commit
 git commit -m "digite sua mensagem"
 ## git status
