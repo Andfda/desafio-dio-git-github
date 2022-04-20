@@ -9,7 +9,7 @@ Desafio de Projeto sobre Git/GitHub
 * __git statust:__ O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
 * __git push:__ Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho.
 
-#Exemplos dos Comandos
+# Exemplos dos Comandos
 ## git init
 git init
 ## git add
